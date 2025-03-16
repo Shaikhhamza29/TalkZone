@@ -12,8 +12,8 @@ import { Analytics } from "@vercel/analytics/react"
 const font = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Discord Clone",
-  description: "Discord Clone created by @impruthvi",
+  title: "TalkZone",
+  description: "TalkZone",
 };
 
 export default function RootLayout({
